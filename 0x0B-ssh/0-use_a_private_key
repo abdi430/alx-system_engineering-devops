@@ -2,4 +2,4 @@
 # Bash script that uses ssh to connect to your server using the private key
 # ~/.ssh/holberton with the user ubuntu
 
-ssh -i ~/.ssh/holberton ubuntu@35.243.157.160
+ssh -i ~/.ssh/school ubuntu@34.207.212.4
