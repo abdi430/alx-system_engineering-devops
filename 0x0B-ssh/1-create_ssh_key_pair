@@ -5,4 +5,4 @@
 #     The created key must be protected by the passphrase betty
 #     ssh -i ~/.ssh/holberton ubuntu@35.243.157.160
 
-ssh-keygen -t rsa -b 4096 -N "betty" -f school
+ssh-keygen -f school -N "betty" -b 4096
